@@ -1,0 +1,23 @@
+{
+  "name": "transparencyproject",
+  "version": "1.0.0",
+  "description": "Transparency Project initial seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negromano/TransparencyProject.git"
+  },
+  "keywords": [
+    "transparency",
+    "government"
+  ],
+  "author": "negromano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/negromano/TransparencyProject/issues"
+  },
+  "homepage": "https://github.com/negromano/TransparencyProject#readme"
+}
